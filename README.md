@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 📚 I'm a student at Mcmaster University
+- ⚛ I am trying to learn quantum chemistry
 <!--
 **AissRaouf/AissRaouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
